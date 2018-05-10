@@ -3,3 +3,5 @@
 test upload file ;add a new line;
 
 checkout to dev branch.and add a new line; 这里使用中文修改最后一行,and modify last line 
+
+fix a bug;
